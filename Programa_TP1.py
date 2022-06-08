@@ -1,4 +1,4 @@
-
+# Mensaje de inicio
 
 print("Hola, selecione la operacion que desea realizar\n 1 - Sumar\n 2 - Restar\n 3 - Multiplicar\n 4 - Dividir")
 opción_elegida=input("Opcion elegida: ")
@@ -31,7 +31,7 @@ def cociente_2_parametros():
     a=input("Ingrese el 1° numero: ")
     b=input("Ingrese el 2° numero: ")
     print("El cociente es:",(float(a)/float(b)))
-#---------------------------------------------------------------------------------
+#-----------------------Operaciones segun opcion elegida ----------------------------
 
 if int(opción_elegida) == 1:
     suma_3_parametros()
@@ -43,4 +43,6 @@ if int(opción_elegida) == 4:
     cociente_2_parametros()
 else:
     print("ingrese una opción correcta")
-    opción_elegida
+
+
+
