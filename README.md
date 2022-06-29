@@ -14,7 +14,7 @@
 
 - Agustin Fernandez
 
-- <Integrante 3>
+- Emma Gutierrez email: emygyt@gmail.com
 
 - <Integrante 4>
 
@@ -47,3 +47,23 @@
 ● Función Máximo: recibe como parámetro la lista y devuelve el valor máximo de todos los elementos que contiene.
 
 ● Función Mínimo: recibe como parámetro la lista y devuelve el valor mínimo de todos los elementos que contiene.
+
+#Función máximo
+def maximo(lista):
+	grande=0
+	for numero in lista:
+		if numero>grande:
+			grande=numero
+	return grande
+print ("El valor MÁXIMO ingresado es: ", maximo(lista), "\n")
+
+#Función Mínimo 
+def minimo(lista):
+	minimo=0
+	for numero in lista:
+		if numero<minimo:
+			minimo=numero
+	 return minimo
+#Imprimo el valor mínimo
+print ("El valor MÍNIMO ingresado es: ", minimo(lista), "\n")
+
