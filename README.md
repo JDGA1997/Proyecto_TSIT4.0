@@ -12,7 +12,7 @@
 
 - Juan Diego Gonzalez Antoniazzi
 
-- <Integrante 2>
+- Agustin Fernandez
 
 - <Integrante 3>
 
