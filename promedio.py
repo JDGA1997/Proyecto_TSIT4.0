@@ -10,4 +10,5 @@ val4=float (input("introduce el cuarto valor "))
 
 prom= ((val1+val2+val3+val4)/4)
 
-print("el promedio es: ", prom)
+print("El promedio es: ", prom)
+
