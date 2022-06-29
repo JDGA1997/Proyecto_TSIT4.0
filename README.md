@@ -22,7 +22,7 @@
 
 - <Integrante 6>
 
-- <Integrante 7>
+- Juliana Vanina Lezcano
 
 - <Integrante 8>
 
