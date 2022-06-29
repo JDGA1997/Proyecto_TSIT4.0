@@ -1,4 +1,4 @@
-## Situación Profesional 1 – Proyecto en equipo 				
+## Proyecto en equipo 				
 				
 				
 				
