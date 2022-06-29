@@ -14,7 +14,7 @@
 
 - Agustin Fernandez
 
-- Emma Gutierrez email: emygyt@gmail.com
+- Emma Gutierrez email: emygut@gmail.com
 
 - <Integrante 4>
 
