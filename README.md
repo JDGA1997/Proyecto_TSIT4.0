@@ -18,7 +18,7 @@
 
 - <Integrante 4>
 
--karen  del pino
+- karen  del pino
 
 - <Integrante 6>
 
