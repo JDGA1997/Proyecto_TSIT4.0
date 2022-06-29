@@ -16,7 +16,7 @@
 
 - Emma Gutierrez email: emygut@gmail.com
 
-- <Integrante 4>
+- Tomás Alejandro Alcaraz
 
 - karen  del pino
 
