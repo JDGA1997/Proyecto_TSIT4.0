@@ -10,7 +10,7 @@
  | ------------- | ------------- |
 |@JDGA1997| Juan Diego Gonzalez Antoniazzi|
 |@emygut| Emma Gutiérrez|
-|@| <nombre y apellido> |
+|@karenDelPino| karen del pino |
 |@| <nombre y apellido> |
 |@| <nombre y apellido> |
 |@| <nombre y apellido> |
@@ -33,7 +33,7 @@
 | ------------- | ------------- | ------------- |				
 5 Numeros Enteros:|  <usuario github> | <usuario github>	 |
 Funcion Suma:|  @JDGA1997 |	<usuario github> |
-Funcion Promedio:|  <usuario github> |	<usuario github> |
+Funcion Promedio:|  <karenDelPino> |	<usuario github> |
 Funcion Maxima:|  emygut | <usuario github>	 |
 Funcion Minima:|  emygut | <usuario github> |
                        
