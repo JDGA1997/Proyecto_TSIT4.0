@@ -9,15 +9,15 @@
  |Usuario Github|Nombre|
  | ------------- | ------------- |
 |@JDGA1997| Juan Diego Gonzalez Antoniazzi|
-|@| <nombre y apellido>  |
-|@| <nombre y apellido>  |
+|@emygut| Emma Gutiérrez|
 |@| <nombre y apellido> |
-|@|  <nombre y apellido> |
-|@|  <nombre y apellido> |
-|@| <nombre y apellido>|
-|@| <nombre y apellido>  |
-|@ |  <nombre y apellido> |
-|@ |  <nombre y apellido> |
+|@| <nombre y apellido> |
+|@| <nombre y apellido> |
+|@| <nombre y apellido> |
+|@| <nombre y apellido> |
+|@| <nombre y apellido> |
+|@| <nombre y apellido> |
+|@| <nombre y apellido> |
     
 
 ## Roles			
@@ -34,6 +34,6 @@
 5 Numeros Enteros:|  <usuario github> | <usuario github>	 |
 Funcion Suma:|  @JDGA1997 |	<usuario github> |
 Funcion Promedio:|  <usuario github> |	<usuario github> |
-Funcion Maxima:|  <usuario github> | <usuario github>	 |
-Funcion Minima:| <usuario github> | <usuario github> |
+Funcion Maxima:|  emygut | <usuario github>	 |
+Funcion Minima:|  emygut | <usuario github> |
                        
